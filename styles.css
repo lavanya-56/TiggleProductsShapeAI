@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+    color: #ed5829;
+    background-color: #FFD580;
+}
+.tiggle-logo {
+  max-width: 110px;
+}
+.tiggle-button {
+  background-color: #ed5829;
+  border: 0px;
+}
+
+.tiggle-button:hover {
+  background-color: #ed5829;
+  border: 1px solid #ed5829;
+}
+.tiggle-button:focus {
+  background-color: #ed5829;
+  border: 3px solid #ed5829;
+}
+.tiggle-button:active {
+  background-color: #ed5829;
+  border: 3px solid #ed5829;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ed5829;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #ed5829;
+    font-weight: bold;
+}
